@@ -34,8 +34,14 @@ The steps followed are:
 
 These steps are published here:
 
-'''
+```
 https://usegalaxy.org/u/silviagenome/h/oxford-nanopore-de-novo
-'''
+```
 
 - Assembly with wtdbg v1.2.8 (https://github.com/fantasticair/wtdbg-1.2.8)
+- Annotation of assembly with Augustus with data from wtdbg previous step.
+
+This step is published here:
+```
+https://dayhoff.inf.um.es:8080/u/jaime94/h/illumina-de-novo-anotacin
+```
