@@ -43,5 +43,5 @@ https://usegalaxy.org/u/silviagenome/h/oxford-nanopore-de-novo
 
 This step is published here:
 ```
-https://dayhoff.inf.um.es:8080/u/jaime94/h/illumina-de-novo-anotacin
+https://dayhoff.inf.um.es:8080/u/jaime94/h/nanopore-de-novo-anotacin
 ```
