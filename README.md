@@ -1,5 +1,5 @@
-# Comparison of de novo assemblies from Illumina and Orford nanopore sequences in Dynastes tityus
-This is a repository working as the annex of "Comparison of de novo assemblies from Illumina and Orford nanopore sequences in Dynastes tityus" project.
+# Comparison of de novo assemblies from Illumina and Oxford nanopore sequences in Dynastes tityus
+This is a repository working as the annex of "Comparison of de novo assemblies from Illumina and Oxford nanopore sequences in Dynastes tityus" project.
 
 ## Illumina short-reads
 The steps followed are:
